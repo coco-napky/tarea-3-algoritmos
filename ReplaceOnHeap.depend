@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1487810334 source:/home/napky/Documents/sites/satanas/main.cpp
+	"Test.h"
+	<iostream>
+
+1487810108 /home/napky/Documents/sites/satanas/Test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1487810274 source:/home/napky/Documents/sites/satanas/Test.cpp
+	"Test.h"
+
